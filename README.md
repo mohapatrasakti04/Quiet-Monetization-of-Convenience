@@ -141,6 +141,6 @@ The open question and the one worth watching is durability. Zepto's reversal of 
 NDTV Food, The Economic Times, Business Standard, Moneycontrol, Fortune India, IMARC Group (Jan 2025), Renub Research (Feb 2026), Goodluck Capital (Apr 2026), Investec, The Federal / CCI (Nov 2024), Verdict Food Service (Apr 2025), The Startup Spectrum (Aug 2024), Entrackr (Jan 2025), INDmoney, Macquarie, Company filings (Zomato, Swiggy), RBI CPI Data
 
 
-**Sakti Mohapatra** 
-Finding the Story Behind the Number
+**Sakti Mohapatra**<br>
+Finding the Story Behind the Number<br>
 mohapatrasakti04@gmail.com
