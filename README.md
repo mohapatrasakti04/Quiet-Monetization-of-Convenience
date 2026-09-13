@@ -3,7 +3,7 @@
 # How Zomato & Swiggy Quietly Monetized Convenience
 ### How a ₹2 Fee Became a ₹2,000+ Cr Revenue Engine in a Duopoly Market
 
-![Cover](assets/00-cover.png)
+![Cover](00-cover.png)
 
 A strategy case study on how India's two dominant food-delivery platforms converted a near-invisible line item into a high-margin, industry-wide revenue lever — without adding a single new feature for consumers.
 
@@ -13,7 +13,7 @@ A strategy case study on how India's two dominant food-delivery platforms conver
 
 ## 1. Executive Summary
 
-![Executive Summary](assets/01-executive-summary.png)
+![Executive Summary](01-executive-summary.png)
 
 In April 2023, Swiggy silently introduced a ₹2 "platform fee" on every food delivery order. Zomato followed four months later. By March 2026, both platforms charge ₹14.90 per order (₹17.58 inclusive of 18% GST) — a **645% increase in roughly three years**.
 
@@ -23,7 +23,7 @@ This case study examines how that fee evolved from a negligible add-on into a **
 
 ## 2. Market Context — Why This Was Possible
 
-![Market Context](assets/02-market-context.png)
+![Market Context](02-market-context.png)
 
 Three structural conditions made this monetization play viable, using a market-structure lens (size, penetration, concentration):
 
